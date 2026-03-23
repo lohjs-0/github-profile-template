@@ -1,7 +1,6 @@
 <!-- 
 =============================================================
   🎨 GITHUB PROFILE README TEMPLATE
-  Criado com base no perfil de: Lohane Massão
   
   📋 COMO USAR:
   1. Substitua todas as variáveis {{VARIAVEL}} pelos seus dados
